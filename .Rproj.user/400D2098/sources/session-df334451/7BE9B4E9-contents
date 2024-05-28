@@ -1,0 +1,19 @@
+Package: sdRgraph
+Type: Package
+Title: Creates a Semantic Differential (SD) plot from data
+Version: 3.0
+Date: 2021-07-21
+Author: Justine Leon A. Uro
+Maintainer: Justine Leon A. Uro <justineuro@gmail.com>
+Description: This package contains an R function that requires four (4) arguments: 
+  nx - number of levels in the SD scale, e.g., 5
+  sl - scale labels as a list, e.g. c("SA","A","N","A","SA")
+  ny - number of descriptor items in the inventory
+  x - data matrix: 
+    col1: low-end descriptors
+    col2: high-end descriptors
+    col3-onwards: mean of the scale values for each group
+  The names of the columns beyond the second (col 3 and above) of the data matrix (e.g., dimnames(x)[[2]][3: ncol(x)]) are used for labelling the groups in the legend.
+License: CC BY-SA 4.0
+Encoding: UTF-8
+RoxygenNote: 7.3.1
