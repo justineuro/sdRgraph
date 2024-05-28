@@ -4,8 +4,8 @@
 #' @param nx  The number of levels in each of the the SD scales in the inventory, e.g., 5.
 #' @param sl The scale labels given as a list, e.g. c("SA","A","N","A","SA").
 #' @param ny The number of descriptor items in the inventory.
-#' @param x The data matrix with the first column (col1) containing the low-end descriptors of the SD scales, the second column (col2) containing the high-end descriptors of the SD scales, and the third column  and beyond (col3-onwards) containing the mean scale values for each group. 
-#' The names of the columns (col 3 and above) of the data matrix (e.g., dimnames(x)[[2]][3:ncol(x)])) are used for labelling the groups in the legend.
+#' @param x The data matrix with the first column (col1) containing the low-end descriptors of the SD scales, the second column (col2) containing the high-end descriptors of the SD scales, and the third column  and beyond (col3 onwards) containing the mean scale values for each group. 
+#' The names of the columns (col 3 and above) of the data matrix (e.g., dimnames(x)[[2]][3:ncol(x)])) are used for labeling the groups in the legend.
 #' @return The SD plot of the data summarized in matrix x.
 #' @examples
 #' low<-c("Serious","Slow","Useless","Tiring","Old","Hard","Long")
