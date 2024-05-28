@@ -3,7 +3,7 @@
     "path": "~/R+/Rpkgs/sdRgraph/.Rbuildignore",
     "project_path": ".Rbuildignore",
     "type": "text",
-    "hash": "0",
+    "hash": "1632899362",
     "contents": "",
     "dirty": false,
     "created": 1716861827956.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,0",
+        "cursorPosition": "4,12",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716859788,
+    "lastKnownWriteTime": 1716868657,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716859788,
+    "last_content_update": 1716868657076,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -14,6 +14,6 @@ Description: This package contains an R function that requires four (4) argument
     col2: high-end descriptors
     col3-onwards: mean of the scale values for each group
   The names of the columns beyond the second (col 3 and above) of the data matrix (e.g., dimnames(x)[[2]][3: ncol(x)]) are used for labelling the groups in the legend.
-License: CC BY-SA 4.0
+License: CC BY 4.0
 Encoding: UTF-8
 RoxygenNote: 7.3.1
