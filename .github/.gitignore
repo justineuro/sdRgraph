@@ -1,1 +1,5 @@
 *.html
+OLD
+.Rdata
+.Rhistory
+sdRraph.Rproj

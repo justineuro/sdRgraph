@@ -1,4 +1,6 @@
 ~%2FR%2B%2FRpkgs%2FsdRgraph%2F.Rbuildignore="97E9F677"
+~%2FR%2B%2FRpkgs%2FsdRgraph%2F.github%2F.gitignore="23A6D20C"
+~%2FR%2B%2FRpkgs%2FsdRgraph%2F.github%2Fworkflows%2FR-CMD-check.yaml="49F95878"
 ~%2FR%2B%2FRpkgs%2FsdRgraph%2F.github%2Fworkflows%2Fpkgdown.yaml="31518FD6"
 ~%2FR%2B%2FRpkgs%2FsdRgraph%2F.gitignore="934B6E89"
 ~%2FR%2B%2FRpkgs%2FsdRgraph%2FDESCRIPTION="D4F943E1"
