@@ -3,3 +3,9 @@
 ^\.RData$
 ^\.Rhistory$
 ^README.md$
+^OLD$
+^LICENSE\.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
