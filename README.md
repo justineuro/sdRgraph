@@ -1,7 +1,7 @@
 ## sdRgraph
 `sdRgraph` is an [**R**](https://svn.R-project.org/R/) package that contains an `R` function, `sdRplot`, that can be used for creating ***semantic differential*** (SD) inventory plots (see [Wikipedia: Semantic differential](https://en.wikipedia.org/wiki/Semantic_differential) for more info).  
 
-![](images/sdRplot1.png)
+![](https://github.com/justineuro/sdRgraph/blob/main/images/sdRplot1.png)
 
 (You may have to change some of the graphing parameters in the written function, as the need arises, to get better quality plots; please see [`sdRplot`](https://github.com/justineuro/sdRplot), a GitHub repository that contains this `R` function.)  
 
